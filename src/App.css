@@ -55,3 +55,17 @@ tr {
 .card {
   width: 18rem;
 }
+
+.selectedRow {
+  background-color: green;
+}
+
+.card-container {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+.div-restaurant {
+  text-align: center;
+}
